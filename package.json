@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tandibar/ui-bootstrap-alerts.git"
+    "url": "git@github.com:nod/ui-bootstrap-alerts.git"
   },
   "keywords": [
     "angular",
